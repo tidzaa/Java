@@ -22,9 +22,9 @@ class Collage
 	};
 }
 
-public class AnonymousClass
+private class AnonymousClass
 {
-	public static void main(String []args)
+	private static void main(String []args)
 	{
 		Collage c = new Collage();
 		
