@@ -2,7 +2,7 @@
 
 class Parent
 {
-	static int y = 0; //static member variable cannot be inherite
+	static int y = 0; //static member variable cannot be inherited
 	public static void fun1()
 	{
 		System.out.println("Hello world");
