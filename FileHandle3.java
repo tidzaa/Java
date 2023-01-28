@@ -8,7 +8,7 @@ public class FileHandle3
 	public static void main(String []args) throws IOException
 	{
 		int i=1;
-		//fileInputStream obect
+		//fileInputStream object
 		FileInputStream fileIn = new FileInputStream("D:/GITHUB/java/file1.txt");
 		
 		while(i != -1) //if i ==-1 means end of file 
